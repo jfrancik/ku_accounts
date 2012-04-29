@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  k_number: MyString
+  first_name: MyString
+  last_name: MyString
+  password: MyString
+  privilege: 1
+  key: MyString
+  ver: false
+  salt: MyString
+  passwd_reset: false
+
+two:
+  k_number: MyString
+  first_name: MyString
+  last_name: MyString
+  password: MyString
+  privilege: 1
+  key: MyString
+  ver: false
+  salt: MyString
+  passwd_reset: false
